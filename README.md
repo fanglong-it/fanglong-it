@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fanglong-it&label=Profile%20views&color=0e75b6&style=flat" alt="fanglong-it" /> </p>
+
 [![Visitor](https://github.com/fanglong-it/fanglong-it/actions/workflows/Visitor.yml/badge.svg)](https://github.com/fanglong-it/fanglong-it/actions/workflows/Visitor.yml)
 
 - 🌱 I’m currently learning **C#**
