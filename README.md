@@ -5,7 +5,7 @@
 
 [![Visitor](https://github.com/fanglong-it/fanglong-it/actions/workflows/Visitor.yml/badge.svg)](https://github.com/fanglong-it/fanglong-it/actions/workflows/Visitor.yml)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fanglong-it](https://github.com/fanglong-it)
 
